@@ -4,7 +4,7 @@
   <img width="1000" height="200" src="https://assets.fontsinuse.com/static/use-media-items/15/14401/full-2362x530/56702904/rossmann-schriftzug.jpeg3"/>
 </p>
 
-**Aviso:** O seguintes dados foram retirado do site https://www.kaggle.com/c/rossmann-store-sales/overview, a empresa existe e o projeto apresentado não tem vínculo com os resltados reais da empresa, o contexto, o CEO, e as questões de negócios existem apenas para elaboração desse contexto.
+**Aviso:** O seguintes dados foram retirado do site https://www.kaggle.com/c/rossmann-store-sales/overview, a empresa existe e os resultados apresentados nesse projeto não tem vínculo com os resltados reais da empresa, o contexto, o CEO, e as questões de negócios existem apenas para elaboração desse contexto.
 
 
 # Questão de negócio
