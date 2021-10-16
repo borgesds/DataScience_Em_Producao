@@ -1,7 +1,7 @@
 # Vendas da Loja Rossmann
 
 <p align="center">
-  <img width="1000" height="200" src="https://assets.fontsinuse.com/static/use-media-items/15/14401/full-2362x530/56702904/rossmann-schriftzug.jpeg3"/>
+  <img width="1000" height="220" src="https://camo.githubusercontent.com/f1d71e6ee558367c9910a433915be7e226aebd0f9a8efa64e9151304e437bb1d/68747470733a2f2f7777772e726f73736d616e6e2e64652f64616d2f6a63723a30643062623036612d383532372d346437632d616337302d3763623630653764303030372f524f53534d414e4e5f576f72745f42696c645f436c61696d5f53636875747a5f4c5f636d796b2e323031382d30392d32312d30392d35382d32382e6a7067"/>
 </p>
 
 **Aviso:** O seguintes dados foram retirado do site https://www.kaggle.com/c/rossmann-store-sales/overview, a empresa existe e os resultados apresentados nesse projeto não tem vínculo com os resultados reais da empresa, o contexto, o CEO, e as questões de negócios existem apenas para elaboração desse contexto.
