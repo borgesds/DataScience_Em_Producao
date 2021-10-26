@@ -85,6 +85,10 @@ O terceiro grafico mostra a distribuição dos erros que o modelo gerou procimo 
 ![graf](https://user-images.githubusercontent.com/82332461/138327224-945e646b-181f-4ea8-9f28-1fc7eff0c06c.png)
 
 
+#  Storytelling
+
+https://user-images.githubusercontent.com/82332461/138787724-ea24660d-ff7f-4134-bf41-39cc64427ff3.mp4
+
 #  Próximos Passos
 As lojas que tem o MAPE muito alto podem ser criado modelos específicos para elas, como colocar variáveis. O CFO pode determinar uma melhor predição dessas lojas e assim voltando para o CRISP ou podendo descartar essas lojas.
 
@@ -92,4 +96,8 @@ As lojas que tem o MAPE muito alto podem ser criado modelos específicos para el
 Foi um desafio muito grande em fazer esse projeto, machine learning não é simples tem que ter muito estudo. Ciência de dados é desafio, é compreenção, aprendizado, e acima de tudo visão do negócio onde te apresenta a direção correta para aplicar os métodos para análises dos dados.
 
  
+
+
+
+
 
