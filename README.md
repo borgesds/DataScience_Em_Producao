@@ -44,7 +44,7 @@ E por fim avaliação do modelo ou algoritmo para ver quanto isso impacta no neg
 
 ## Resultado 
 
-No nosso modelo aprensentou resultados importantes e visualizando sua predição vemos os valores que cada loja vai faturar nas proximas 6 semanas. Na coluna MAE mostra a variação dos resultados dentro dessa predição que pode ser descrita em porcentagens pela coluna MAPE, para uma visualização descritiva observe a tabela de amostras:
+O nosso modelo aprensentou resultados importantes e visualizando sua predição vemos os valores que cada loja vai faturar nas proximas 6 semanas. Na coluna MAE mostra a variação dos resultados dentro dessa predição que pode ser descrita em porcentagens pela coluna MAPE, para uma visualização descritiva observe a tabela de amostras:
 
 - Tabela Amostras
 
